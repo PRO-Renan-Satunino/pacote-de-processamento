@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: image_utils
+Version: 0.1.0
+Summary: Pacote simples para processamento de imagens
+Author: Renan Joaquim
+License: MIT
+Requires-Dist: Pillow
